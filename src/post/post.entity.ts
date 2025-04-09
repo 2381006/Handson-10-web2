@@ -23,3 +23,4 @@ export class Posts {
   @Column()
   updated_at: Date;
 }
+// by mario

@@ -26,3 +26,4 @@ import { AuthController } from './auth.controller';
   providers: [UserService, AuthService],
 })
 export class AuthModule {}
+// by mario

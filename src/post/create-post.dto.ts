@@ -17,3 +17,4 @@ export class CreatePostDTO {
   @ApiProperty()
   image_url: string;
 }
+// by mario

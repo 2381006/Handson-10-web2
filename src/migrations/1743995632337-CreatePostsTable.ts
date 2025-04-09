@@ -24,3 +24,4 @@ export class CreatePostsTable1743995605371 implements MigrationInterface {
     await queryRunner.query(`DROP TABLE posts;`)
   }
 }
+// by mario

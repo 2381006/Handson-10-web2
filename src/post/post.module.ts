@@ -10,3 +10,4 @@ import { PostService } from './post.service';
   providers: [PostService],
 })
 export class PostModule {}
+// by mario
